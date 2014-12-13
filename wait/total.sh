@@ -15,6 +15,7 @@
 #                                                                                    #
 # Author: Francesco Serafin                                                          #
 # Date: 2014-12-13                                                                   #
+# License: Copyright GPL v. 3 (http://www.gnu.org/licenses/gpl.html)                 #
 #************************************************************************************#
 
 ~/.script_bash/small_loop.sh &
